@@ -1,0 +1,57 @@
+#main-nav {
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+
+#logo {
+    margin-left: 5vw;
+    font-family: "Space Mono", monospace;
+
+}
+
+#quote {
+    height: 400px;
+    position: relative;
+}
+
+.aboutme {
+    position: absolute;
+    top: 25%;
+}
+
+img {
+    width: 100%;
+    padding-top: 25px;
+}
+
+.navbar-nav {
+    position: absolute;
+    right: 7%;
+}
+
+h2 {
+    font-family: "Space Mono", monospace;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+.nav-item {
+    margin-right: 25px;
+    font-family: "Space Mono", monospace;
+}
+
+.aboutme {
+    font-family: "Space Mono", monospace;
+    font-size: 4vw;
+    padding-left: 50px;
+}
+
+#mark {
+    background-image: linear-gradient(120deg,#ff0,#ff0);
+    background-repeat: no-repeat;
+    background-size: 100% .55em;
+    background-position: 0 110%;
+ }
